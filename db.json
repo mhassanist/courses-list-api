@@ -4,7 +4,15 @@
         "developer_message": "CoursesController@index - The courses were get successfully",
         "user_messages": {
             "en": "The courses were get successfully"
-    : "arabic",
+        }
+    },
+  
+    "data": [
+        {
+            "id": 11,
+            "title": "تطبيق تحدث التركية",
+            "description": "<h3>تحدث التركية بطلاقة عن طريق المحادثات الصوتية الفعالة</h3>",
+            "lang": "arabic",
             "image": "https://speakadmin.bymsaudi.com/barmjatech/public//storage/media/11/images/16-06-2020-speak-logo.png",
             "access": "public",
             "show_in_list": 1,
